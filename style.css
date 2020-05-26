@@ -111,6 +111,10 @@ a {
   font-weight: bold;
 }
 
+.link:hover {
+  color: #85144b;
+}
+
 .vert {
   background-color: #3d9970;
   margin: 1vw 50vw 1vw 0.5vw;
